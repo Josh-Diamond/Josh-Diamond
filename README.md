@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
+<!-- ![Josh Diamond](./images/logo.png) -->
 
-
-![Josh Diamond](./images/logo.png)
+<div style="text-align:center"><img src="./images/logo.png" /></div>
