@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="./images/logo.png" alt="Josh Diamond ♦ Logo"/>
 </p>
-<iframe style="height:700px; width:700px;" src="https://diamond-clock.netlify.app/">
-<b>IFrame is unavailable here</b>
-</iframe>
