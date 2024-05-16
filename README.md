@@ -20,6 +20,7 @@ Cool water thing:
 
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/46494969/202872785-ff56e421-1ad2-442b-bf54-e5ad2dec8d79.jpg" alt="City Street Image" />
+    <img src="https://github.com/Josh-Diamond/Josh-Diamond/assets/46494969/64ee3a43-20af-47a1-ac90-bf29128c0060" alt="City Street Image" />
 
 </p>
+
